@@ -2,7 +2,7 @@
 
 A single offline HTML (HyperText Markup Language) file with **164 interview questions**, written explanations for every answer, and **16 mixed practice papers**. Built for graduate and entry-level Machine Learning Engineer (MLE) interviews in the United Kingdom.
 
-**[Open the guide](https://YOUR-USERNAME.github.io/mle-interview-guide/)** &nbsp;·&nbsp; works on a phone &nbsp;·&nbsp; no sign-up &nbsp;·&nbsp; no tracking
+**[Open the guide](https://Avi-techAI.github.io/mle-interview-guide/)** &nbsp;·&nbsp; works on a phone &nbsp;·&nbsp; no sign-up &nbsp;·&nbsp; no tracking
 
 ---
 
